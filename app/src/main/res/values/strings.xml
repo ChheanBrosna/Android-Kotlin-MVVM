@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android Kolin MVVM</string>
+    <string name="onboarding_picture">Onboarding Picture</string>
+    <string name="welcome">Welcome</string>
+    <string name="onboarding_message">Are you looking for someone special—a girlfriend or boyfriend who truly understands you? 💖 Whether it’s love, companionship, or just meaningful connections, you\'re in the right place. Let\’s start this journey together! 💕</string>
+    <string name="get_started">Get Started</string>
 </resources>
