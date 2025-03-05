@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AndroidKolinMVVM"
         tools:targetApi="31">
         <activity
+            android:name=".views.random_user.RandomUserActivity"
+            android:exported="false" />
+        <activity
             android:name=".views.onboarding.OnboardingActivity"
             android:exported="false" />
         <activity
