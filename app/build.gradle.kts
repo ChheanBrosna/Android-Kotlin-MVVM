@@ -54,4 +54,5 @@ dependencies {
     implementation(libs.convertor.gson)
     implementation(libs.lifecycle.viewmodel)
     implementation(libs.lifecycle.livedata)
+    implementation(libs.coil)
 }
